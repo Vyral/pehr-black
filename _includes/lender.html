@@ -21,8 +21,10 @@
 		{{site.data.settings.lender.company_license_number}}<br>
 		{% endif %}
 		{% if site.data.settings.lender.phone != null %}
-		<a href="tel:1-{{site.data.settings.lender.phone}}">{{site.data.settings.lender.phone}}</a><br>
+		{{site.data.settings.lender.phone_type}}: <a href="tel:1-{{site.data.settings.lender.phone}}">{{site.data.settings.lender.phone}}</a><br>
+		{{site.data.settings.lender.phone2_type}}: <a href="tel:1-{{site.data.settings.lender.phone2}}">{{site.data.settings.lender.phone2}}</a><br>
 		{% endif %}
+		{{site.data.settings.lender.address}}<br>
 		{% if site.data.settings.lender.email != null %}
 		<a href="mailto:{{site.data.settings.lender.email}}">{{site.data.settings.lender.email}}</a><br>
 		{% endif %}
@@ -30,9 +32,19 @@
 		<a href="{{site.data.settings.lender.url}}">{{site.data.settings.lender.url | remove: 'http://' | remove: 'https://'}}</a>
 		{% endif %}
 	</p>
-	</div>
 	<div class="lender-logo">
 		<img src="{{site.data.settings.lender.logo_path}}"/>
+	</div>
+	<div class="lender-cta">
+	<a class="ctalink" href="https://mobile.academymortgage.com/borrower/onboarding/john.spiker@academymortgage.com" target="_blank">
+		My Mortgage Mobile
+	</a>
+	</div>
+	<div class="lender-cta">
+	<a class="ctalink" href="https://mobile.academymortgage.com/borrower/signup/john.spiker@academymortgage.com" target="_blank">
+		Apply Online
+	</a>
+	</div>
 	</div>
 </div>
 {% endif %}

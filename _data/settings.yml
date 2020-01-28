@@ -29,35 +29,39 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: https://myhousepage.com/boisehousevalue-com
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://pehrblack.silvercreekrealty.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Boise Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: https://myhousepage.com/boisehousevalue-com
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Boise Home?"
     CTA_text2: "Search the entire MLS for your Boise home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://pehrblack.silvercreekrealty.com/
 
 lender:
-  show_section: false
+  show_section: true
   header_text: Local Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
-  name:
-  license_number:
+  name: John Spiker
+  license_number: 'Loan Officer | NMLS #46322'
   company:
   company_license_number:
-  phone:
-  email:
+  phone: 208-854-8407
+  phone_type: Direct
+  phone2: 208-794-2333
+  phone2_type: Cell
+  email: john.spiker@academymortgage.com
+  address: 2845 E Overland Rd, Suite 160 & 170 Meridian, ID 83642
   url:
 
 socials:

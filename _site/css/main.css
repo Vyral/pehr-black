@@ -1188,23 +1188,28 @@ html[xmlns] .flexslider .slides {
   .lender .lender-headshot img {
     width: 100%; }
   .lender .lender-logo img {
-    width: 100%; }
+    width: 100%;
+    padding: 10px; }
   .lender .lender-info {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center; }
-    .lender .lender-info img {
-      margin: 5px;
-      border-radius: 50%;
-      overflow: hidden;
-      max-width: 200px;
-      border: 3px solid #a8aaad; }
     .lender .lender-info p {
       margin-bottom: 0;
       vertical-align: middle;
       margin-left: 10px; }
+
+.lender-headshot img {
+  margin: 5px;
+  border-radius: 50%;
+  overflow: hidden;
+  max-width: 200px;
+  border: 3px solid #a8aaad; }
+
+.lender-cta {
+  margin: 2rem; }
 
 .cta-sidebar-container {
   width: 100%;
@@ -1258,7 +1263,7 @@ html[xmlns] .flexslider .slides {
   margin: 0;
   padding: 0;
   position: relative;
-  -webkit-tap-highlight-color: #cdcdcf;
+  -webkit-tap-highlight-color: #a8aaad;
   text-align: left;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -1294,7 +1299,7 @@ html[xmlns] .flexslider .slides {
       width: 100%;
       transition: all 0.15s ease-out 0s; }
       .jp-audio .jp-controls a:hover {
-        color: #cdcdcf; }
+        color: #a8aaad; }
   .jp-audio .jp-progress {
     background-color: #fff;
     height: 10px;
@@ -1303,7 +1308,7 @@ html[xmlns] .flexslider .slides {
       cursor: pointer;
       height: 100%; }
     .jp-audio .jp-progress .jp-play-bar {
-      background-color: #cdcdcf;
+      background-color: #a8aaad;
       height: 100%;
       width: 0; }
   .jp-audio .timekeeper {
@@ -1675,7 +1680,7 @@ a {
   text-decoration: none; }
   a:hover {
     text-decoration: none;
-    color: #cdcdcf; }
+    color: #a8aaad; }
   a:visited {
     text-decoration: none; }
 
@@ -1686,7 +1691,7 @@ a {
   border: 1px solid #a8aaad;
   border-radius: 0px; }
   .button:hover, .button-ghost:hover, button:hover, input[type="button"]:hover, input[type="submit"]:hover {
-    background: #cdcdcf;
+    background: #a8aaad;
     border: 1px solid #a8aaad;
     color: white; }
   .button:visited, .button-ghost:visited, button:visited, input[type="button"]:visited, input[type="submit"]:visited {
@@ -1704,8 +1709,8 @@ a {
   border-color: #a8aaad;
   color: #a8aaad; }
   .button-ghost.brand:hover {
-    border-color: #cdcdcf;
-    color: #cdcdcf; }
+    border-color: #a8aaad;
+    color: #a8aaad; }
 
 table tr, table td {
   border-bottom: 1px solid gray;
@@ -1967,7 +1972,7 @@ table tr, table td {
   .author-attribution a {
     color: white; }
     .author-attribution a:hover {
-      color: #cdcdcf; }
+      color: #a8aaad; }
 
 .post-share {
   text-align: center;
@@ -2095,16 +2100,16 @@ table tr, table td {
     border-radius: 50%;
     transition: all 0.15s ease-out 0s; }
     .socials svg:hover {
-      fill: #cdcdcf;
+      fill: #a8aaad;
       background: transparent;
-      color: #cdcdcf;
+      color: #a8aaad;
       box-shadow: 0 2px 7px rgba(0, 0, 0, 0.5);
       -webkit-transform: scale(1.05);
       transform: scale(1.05);
       -webkit-transform: translateY(-0.2rem);
       transform: translateY(-0.2rem); }
     .socials svg:active {
-      box-shadow: 0 0 0 #cdcdcf;
+      box-shadow: 0 0 0 #a8aaad;
       -webkit-transform: translateY(0rem);
       transform: translateY(0rem); }
 
@@ -2117,7 +2122,7 @@ table tr, table td {
     width: 5rem;
     fill: #a8aaad; }
     .about .socials svg:hover {
-      fill: #cdcdcf; }
+      fill: #a8aaad; }
 
 .footer-socials .socials {
   text-align: center;
@@ -2133,7 +2138,7 @@ table tr, table td {
     fill: #a8aaad;
     transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1); }
     .footer-socials .socials svg:hover {
-      fill: #cdcdcf;
+      fill: #a8aaad;
       background: transparent; }
 
 @media (max-width: 1450px) {
@@ -2366,7 +2371,7 @@ table tr, table td {
   top: 0.5rem;
   margin-right: 0.1rem; }
   .vyral-logo:hover {
-    fill: #cdcdcf; }
+    fill: #a8aaad; }
 
 .footer-pad {
   padding-top: 20px; }
@@ -2448,7 +2453,7 @@ table tr, table td {
     cursor: pointer;
     transition: all 0.15s ease-out 0s; }
     .testimonial-navigation a:hover {
-      color: #e7e7e8; }
+      color: #c2c4c6; }
   .testimonial-navigation h3 {
     padding: 0 10px;
     text-align: center; }
@@ -2500,7 +2505,7 @@ form select {
     padding: 1rem;
     border: 3px solid #a8aaad; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #cdcdcf; }
+      border: 3px solid #a8aaad; }
 
 .contact-form {
   width: 75%;
