@@ -49,7 +49,7 @@ second_sidebar_CTA:
 
 lender:
   show_section: false
-  header_text: Preferred Lender
+  header_text: Local Lender
   headshot_path: /img/lender-headshot.jpg
   logo_path: /img/lender-logo.png
   name:
