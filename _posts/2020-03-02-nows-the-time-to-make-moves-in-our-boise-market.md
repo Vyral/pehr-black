@@ -19,7 +19,7 @@ youtube_code: 3-F9ZZdDIi8
 
 {% include youtube.html %}
 
-<center><em>Here’s what buyers and sellers need to know about our hot Boise market.</em></center>
+<center><em>Here&rsquo;s what buyers and sellers need to know about our hot Boise market.</em></center>
 
 <br>**Right now is the best time to sell in the history of selling in our Boise market**. Get your house on the market as soon as possible\! Listing today will save more money and net more from the sale than by waiting. That’s because there’s less competition out there, but plenty of buyers that will bite.
 
