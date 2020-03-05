@@ -5,8 +5,6 @@ date: 2020-03-02 00:00:00
 tags:
   - Real Estate
   - Market Update
-  - Home Seller Tips
-  - Home Buyer Tips
 excerpt: Here’s what buyers and sellers need to know about our hot Boise market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Pehr+Black/Nows+the+Time+to+Make+Moves+in+Our+Boise+Market.mp4
