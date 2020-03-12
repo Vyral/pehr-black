@@ -19,7 +19,7 @@ youtube_code: 3D7YgwNeFS0
 
 {% include youtube.html %}
 
-<center><em>Winning a bidding war is necessary for today’s homebuyers. Here are a few ways you can increase your chances of success.</em></center>
+<center><em>Winning a bidding war is necessary for today&rsquo;s homebuyers. Here are a few ways you can increase your chances of success.</em></center>
 
 <br>It seems that we have 10 buyers for every single home in today’s market. If you’re in the market to buy a home, how can you win when multiple offers are the norm? **A lot of cash buyers are the ones making out, but here’s how you can beat them:**
 
