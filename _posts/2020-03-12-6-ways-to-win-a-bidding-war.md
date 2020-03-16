@@ -23,12 +23,8 @@ youtube_code: 3D7YgwNeFS0
 
 <br>It seems that we have 10 buyers for every single home in today’s market. If you’re in the market to buy a home, how can you win when multiple offers are the norm? **A lot of cash buyers are the ones making out, but here’s how you can beat them:**
 
-1\. Cut time frames in half<br>2\. Have everything pre-underwritten with a lender<br>3\. Have money already at the title company
+1\. Cut time frames in half<br>2\. Have everything pre-underwritten with a lender<br>3\. Have money already at the title company<br>4\. Order the appraisal as soon as your offer is accepted<br>5\. Don’t ask for any minor repairs on the home inspection<br>6\. Consider giving the seller some time to move out
 
-{% include pullquote.html %}
+We want to make sure that things are as easy as possible on sellers so that they pick your offer over the cash buyers. Also, if you agree to pay a little extra on the home, the seller will be even more attracted to your offer.
 
-4\. Order the appraisal as soon as your offer is accepted<br>5\. Don’t ask for any minor repairs on the home inspection<br>6\. Consider giving the seller some time to move out
-
-We want to make sure that things are as easy as possible on sellers so that they pick your offer over the cash buyers. And if you agree to pay a little extra on the home, the seller will be even more attracted to your offer.
-
-If you have any questions for me about buying a home in this market or anything else related to real estate, feel free to reach out via phone or email. I look forward to hearing from you soon.
+If you have questions for me about buying a home in this market or anything else related to real estate, feel free to reach out via phone or email. I look forward to hearing from you soon.
