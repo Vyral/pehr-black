@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   Winning a bidding war is necessary for today’s homebuyers. Here are a few ways
   you can increase your chances of success.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Pehr+Black/6+Ways+to+Win+a+Bidding+War.mp4
 pullquote: You want to make things as easy as possible on home sellers.
 enclosure_type: video/mp4
 enclosure_time:
